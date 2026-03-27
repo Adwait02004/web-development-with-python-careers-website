@@ -1,2 +1,2 @@
-# web-development-with-python-careers-website
+# Careers website
 A careers website
